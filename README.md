@@ -5,7 +5,7 @@ This project implements a **real-time face mask detection system** using deep le
 It was developed during the COVID-19 pandemic to monitor mask compliance in public and workplace environments.  
 The system identifies whether a person is wearing a mask properly and triggers alerts for non-compliance.  
 
-This work is also published in the **International Journal of Research and Analytical Reviews (IJRAR), June 2022, Vol. 9, Issue 2** as:  
+This work is also published in the **International Journal of Research and Analytical Reviews (IJRAR), June 2022, Vol. 9, Issue 2** (https://www.ijrar.org/papers/IJRAR22B3385.pdf) as:  
 
 > **Automatic Face Mask Detection for Covid-19**  
 > *Authors: Prof. Devika Rani Roy, Kanchan Yadav, Manav Jaiswal, Sameer Jadhav*
@@ -98,12 +98,16 @@ face-mask-detection-using-computer-vision-main/dataset/
 ---
 
 ## 📸 Screenshots
-_Add detection results, GUI screenshots, or flowcharts here._  
 
 Example flow:  
-1. ✅ Mask detected (green)  
-2. ❌ No mask detected (red alert + alarm)  
+1. ✅ Mask detected (green)
+<img width="618" height="454" alt="image" src="https://github.com/user-attachments/assets/bf07fa6c-afb7-46af-9f44-fbf666b4a384" />
+ 
+2. ❌ No mask detected (red alert + alarm + Screenshot)
+<img width="564" height="408" alt="image" src="https://github.com/user-attachments/assets/9a22d716-507e-4dc2-b7e1-7bec6690736a" />
+  
 3. ⚠️ Improper mask detected (warning)  
+<img width="566" height="418" alt="image" src="https://github.com/user-attachments/assets/ce080a78-cdf9-4932-94e0-8febeea0a16a" />
 
 ---
 
